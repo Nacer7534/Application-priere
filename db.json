@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "pseudo": "NAcer Ghz",
+      "message": "Salam Alykoum",
+      "id": 1
+    },
+    {
+      "pseudo": "NAcer Ghz",
+      "message": "Salam Alykoum",
+      "id": 2
+    },
+    {
+      "pseudo": "NAcer Ghz",
+      "message": "Salam Alykoum",
+      "id": 3
+    },
+    {
+      "pseudo": "Nacer Ghz",
+      "message": "Bissmilleh",
+      "id": 4
+    },
+    {
+      "pseudo": "Nacer Ghz",
+      "message": "Bissmilleh",
+      "id": 5
+    },
+    {
+      "pseudo": "Nacer Ghz",
+      "message": "Bissmilleh",
+      "id": 6
+    }
+  ],
+  "salawates": {
+    "salate": "header.textContent = data.data[0].timings.Asr",
+    "adhan": "header.textContent = data.data[0].timings.Asr"
+  }
+}
